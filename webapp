@@ -1,0 +1,2 @@
+useradd sorint
+echo "This is 6th build" > /var/www//html/index.html
