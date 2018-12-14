@@ -1,2 +1,1 @@
-sudo useradd project123
-sudo echo "This is 7th build" > /var/www//html/index.html
+sudo echo "This is 10th build" > /var/www//html/index.html
